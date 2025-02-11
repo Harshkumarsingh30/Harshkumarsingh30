@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Harshkumarsingh30/Harshkumarsingh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 💫 About Me:
+# 💫 About Me:
 👋 Hey, I'm Harsh Kumar Singh!<br>🚀 Aspiring Cybersecurity Specialist | Full-Stack Developer | Tech Enthusiast<br><br>🔹 Computer Science (Cyber Security) undergraduate at ITER, S’O’A University<br>🔹 Passionate about web development, cybersecurity, and cloud technologies<br>🔹 Skilled in Java, Python, C++, MERN stack, and penetration testing tools<br><br>💡 Always eager to learn, solve problems, and contribute to innovative projects!
 
 
@@ -24,4 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=Harshkumarsingh30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
